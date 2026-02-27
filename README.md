@@ -1,50 +1,41 @@
 <h1 align="center">NARMATHA N</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=Cybersecurity+Focused;Distributed+Systems+Enthusiast;Blockchain+Architecture;Systems+Thinking" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mememeowww&label=profile+views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=24&duration=2600&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineering;Distributed+Systems;Blockchain+Architecture;Low-Level+Systems+Thinking" />
 </p>
 
 ---
 
 ### Profile
 
-Third-year Computer Science student with focus on:
+Third-year Computer Science student focused on secure and scalable systems.
+
+Primary interests:
 
 - Cryptographic primitives & security models  
 - Operating system internals  
-- Network protocols & architecture  
-- Distributed consensus & blockchain design  
+- Network protocol design  
+- Distributed systems & blockchain consensus  
 
 ---
 
-### Technical Stack
+### Tech Stack
 
-**Languages**
-```
-C  |  Java  |  Python
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python,react,nodejs,mongodb,linux,git" />
+</p>
 
-**Systems**
-```
-Linux  |  Git  |  Shell
-```
-
-**Web & Data**
-```
-React  |  Node.js  |  MongoDB
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,postman,bash,github,vscode" />
+</p>
 
 ---
 
-### Current Direction
+### Current Focus
 
-- Strengthening cryptographic foundations  
-- Designing fault-tolerant distributed systems  
-- Studying scalable blockchain structures  
+- Advancing cryptographic depth  
+- Designing fault-tolerant distributed architectures  
+- Engineering secure blockchain systems  
 - Exploring computational modelling in astrophysics  
 
 ---
